@@ -66,8 +66,8 @@ public class Dominator {
         return occurrence > A.length / 2.0 ? index : -1;
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         System.out.println(new Dominator().solution(new int[]{3,0,1,1,4,1,1}));
         System.out.println(new Dominator().solution(new int[]{1,2,3,4,6,7}));
-    }
+    }*/
 }
