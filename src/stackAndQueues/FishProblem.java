@@ -80,8 +80,8 @@ public class FishProblem {
         return survivors + stack.size();
     }
 
-    public static void main(String[] args) {
+ /*   public static void main(String[] args) {
         System.out.println(new FishProblem().solution(new int[]{4,8,2,6,7},new int[]{0,1,1,0,0}));
         System.out.println(new FishProblem().solution(new int[]{4,3,2,1,5},new int[]{0,1,1,0,0}));
-    }
+    }*/
 }
